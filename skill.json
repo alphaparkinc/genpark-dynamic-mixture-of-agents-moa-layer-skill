@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dynamic-mixture-of-agents-moa-layer-skill",
+  "version": "1.0.0",
+  "description": "Mixture-of-Agents (MoA) multi-layer aggregator synthesizing candidate proposals into high-consensus outputs.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "mixture-of-agents",
+    "moa",
+    "multi-agent-synthesis",
+    "consensus-aggregation",
+    "ensemble-layer"
+  ]
+}
